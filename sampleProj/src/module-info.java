@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thamic
+ *
+ */
+module sampleProj {
+}
